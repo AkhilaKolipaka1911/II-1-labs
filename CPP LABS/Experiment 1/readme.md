@@ -1,1 +1,1 @@
-Write a C++ Program to display Name, roll no, and grade of 3 students who have appeared in the examination.Declare the class of name ,Roll no, and grade.Creat an array of class objects.Read and display the contents of the array.
+Write a C++ Program to display Name, roll no, and grade of 3 students who have appeared in the examination.Declare the class of name ,Roll no, and grade.Creat an array of class objects.Read and display the contents of the array .
