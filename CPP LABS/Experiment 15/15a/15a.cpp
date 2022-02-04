@@ -5,7 +5,7 @@ class Test
   private:
    int num;
   public:
-   Test(): num(4){}
+   Test(): num(8){}
    void operator ++(){
      num = num+2;
    }
