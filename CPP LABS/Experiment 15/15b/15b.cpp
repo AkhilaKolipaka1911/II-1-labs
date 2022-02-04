@@ -21,7 +21,7 @@ void A :: operator+(A a)
 int main()
 {
   A a1(3);
-  A a2(9);
+  A a2(4);
   a1+a2;
   return 0;
 }
