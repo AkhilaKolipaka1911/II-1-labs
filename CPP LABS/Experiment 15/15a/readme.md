@@ -16,4 +16,4 @@ Step 6 - Create an object named (tt) inside the main method.
 
 Step 7 - Call the operator function then call the member function
 
-Step 9 - return 0 to exit form the program execution.
+Step 8 - return 0 to exit form the program execution.
