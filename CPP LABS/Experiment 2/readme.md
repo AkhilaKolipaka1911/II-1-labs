@@ -16,4 +16,4 @@ Step 6 - Create an object (e) of the above class inside the main() method.
 
 Step 7 - Call the member functions read(), cal_net_sal(), display().
 
-Step 8 - returnn 0 to exit from the program execution.
+Step 8 - return 0 to exit from the program execution.
