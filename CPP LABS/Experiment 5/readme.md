@@ -18,4 +18,4 @@ Step 7 - Assign values to data members of the class using class pointer object t
 
 Step 8 - Finally, call the member function and display() using class pointer object (ptr).
 
-Step 9 - returnn 0 to exit form the program execution.
+Step 9 - return 0 to exit form the program execution.
