@@ -14,4 +14,4 @@ Step 5 - Then, read data into member variables of that structure using structure
 
 Step 6 - Finally, display data of member variables of that structure using structure variable with dot operator.
 
-Step 7 - returnn 0 to exit form the program execution
+Step 7 - return 0 to exit form the program execution
