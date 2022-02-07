@@ -16,4 +16,4 @@ Step 6 - Create an object of the above class inside the main() method.
 
 Step 7 - Make function call to read() and display() using class object.
 
-Step 8 - returnn 0 to exit form the program execution.
+Step 8 - return 0 to exit form the program execution.
