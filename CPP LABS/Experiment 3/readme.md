@@ -16,4 +16,4 @@ Step 6 - Create an array of class object e with a specific size and 'i' as integ
 
 Step 7 - Call all the functions through the array of class object from 0 to specific size.
 
-Step 8 - return 0 to exit from the program execution.
+Step 8 - returnn 0 to exit from the program execution.
