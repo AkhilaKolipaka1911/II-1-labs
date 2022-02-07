@@ -26,4 +26,4 @@ Step 11 - Declare the child class object obj and call the functions max() and di
 
 Step 12 - Obtain different values of i using the scope resolution operator.
 
-Step 13 - returnn 0 to exit the program.
+Step 13 - return 0 to exit the program.
