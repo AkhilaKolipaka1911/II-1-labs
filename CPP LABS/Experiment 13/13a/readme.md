@@ -1,4 +1,4 @@
-Aim: Write a C++ Program for divide by zero using try &try catch blocks.
+Aim: Write a C++ Program for divide by zero using try &try catch blocks
 
 Step by Step procedure for the Experiment:
 
